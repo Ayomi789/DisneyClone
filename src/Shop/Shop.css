@@ -1,0 +1,29 @@
+.Bgg{
+    background-color: aliceblue;
+  }
+  
+  .Shops{
+    display: grid;
+    justify-content: center;
+    gap: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 15px;
+  }
+  
+  
+  .lion{
+  
+  transition-duration: 0.3s;
+  }
+  
+  .lion:hover{
+    transform: scale(1.02);
+  }
+  
+  
+  .leo{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    gap: 25px;
+  }

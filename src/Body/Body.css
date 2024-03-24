@@ -1,0 +1,49 @@
+
+.bdy{
+    display: flex;
+    justify-content: space-evenly;
+       background-color: black;
+       transition-duration: 0.3s;
+      
+  }
+  
+  .bdy:hover{
+    transform: scale(1.02);
+  }
+  
+  .swift{
+     height: 150px;
+     margin-top: 10%;
+  }
+  
+  
+  .text{
+     padding-left: 72%;
+     position: absolute;
+     bottom: 230px;
+     color: white;
+  }
+  
+  .text1{
+    position: relative;
+  }
+  
+  
+  #bottone1 {
+    padding-left: 33px;
+    padding-right: 33px;
+    padding-bottom: 16px;
+    padding-top: 16px;
+    border-radius: 10px;
+    background: #d832a1;
+    border: none;
+    font-family: inherit;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.4s;
+    color: white;
+   }
+   
+   #bottone1:hover {
+    box-shadow: 7px 5px 56px -14px #d832a1;
+   }

@@ -1,0 +1,17 @@
+li a{
+    font-weight: 100;
+    font-size: smaller;
+  
+    
+}
+
+.list{
+    display: flex;
+    justify-content: center;
+}
+
+ul li{
+    font-weight: 100;
+    font-size: smaller;
+    
+}

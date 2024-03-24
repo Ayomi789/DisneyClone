@@ -1,0 +1,19 @@
+.last{
+ position: relative;
+}
+
+.last img{
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 10px;
+}
+.last1{
+    padding-left: 42%;
+    gap: 30px;
+    position: absolute;
+    bottom: 230px;
+    color: rgb(245, 240, 240);
+}
+
+
+

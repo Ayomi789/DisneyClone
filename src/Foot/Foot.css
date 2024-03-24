@@ -1,0 +1,19 @@
+
+.twee{
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    padding-top: 20px;
+
+}
+ 
+.diss{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.diss img{
+    width: 100px;
+    height: 50px;
+}
