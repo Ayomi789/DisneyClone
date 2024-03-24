@@ -2,40 +2,40 @@
 
     display: flex;
     justify-content: space-evenly;
-  
-  }
-  
-  
-  .movie2 {
+
+}
+
+
+.movie2 {
     background-color: rgb(11, 11, 66);
     width: 100%;
     padding: 50px;
-  }
-  
-  .what {
+}
+
+.what {
     text-align: center;
     color: white;
-  }
-  
-  .card2 {
+}
+
+.card2 {
     border-radius: 10px;
     transition-delay: 0.3s;
     transition-timing-function: ease-in;
-  
-  
-  
-  }
-  
-  .card2:hover{
-    transform: scale(1.02);
-  }
-  
-  
-  .card h1 {
-    color: white;
-  }
 
-  #bottone {
+
+
+}
+
+.card2:hover {
+    transform: scale(1.02);
+}
+
+
+.card h1 {
+    color: white;
+}
+
+#bottone {
     padding-left: 33px;
     padding-right: 33px;
     padding-bottom: 16px;
@@ -51,17 +51,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
-   }
+}
 
 
-   .btn{
+.btn {
     display: flex;
     justify-content: center;
     align-items: center;
     padding-top: 30px;
-    
-   }
 
-
-   
-
+}

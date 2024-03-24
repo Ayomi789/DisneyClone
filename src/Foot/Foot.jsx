@@ -9,7 +9,7 @@ function Foot() {
 
     return (
         <>
-           <div className='twee'> <h3>Follow Disney On:</h3>
+            <div className='twee'> <h3>Follow Disney On:</h3>
                 <img src={Twitter} alt="" />
                 <img src={Facebook} alt="" />
                 <img src={Instagram} alt="" />
@@ -17,7 +17,7 @@ function Foot() {
             </div>
 
             <div className='diss'>
-            <img src={disss} alt="" />
+                <img src={disss} alt="" />
             </div>
         </>
     )

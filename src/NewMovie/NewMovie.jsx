@@ -29,7 +29,7 @@ function NewMovie() {
 
             <div className='Bggg'>
                 <div>
-                    <h1 style={{textAlign:'center'}}>Movies</h1>
+                    <h1 style={{ textAlign: 'center' }}>Movies</h1>
                 </div>
                 <div className='card4'>
                     {items.map((item) => (
